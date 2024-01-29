@@ -70,7 +70,7 @@ nav {
 }
 
 .unite {
-  /* width: 55%; */
+  width: 55%;
 }
 
 .unite-header {
@@ -118,6 +118,7 @@ nav {
 }
 
 .unite-main-img {
+  width: 45%;
   border: 1px solid #B2DDFF;
   background-color: #EFF8FF;
   border-radius: 10px;
@@ -133,7 +134,7 @@ nav {
 }
 
 .cartoon-container {
-  width: 160px;
+  width: 32%;
   height: 160px;
   border-radius: 8px;
 }
@@ -141,7 +142,7 @@ nav {
 .cartoon-container img {
   display: block;
   width: 100%;
-  height: 100%
+  height: 100%;
 }
 
 .bottom-icons {
